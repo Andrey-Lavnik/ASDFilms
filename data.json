@@ -1,0 +1,41 @@
+
+
+
+
+{
+"info" : [
+    { "filmName": "1+1", "filmRate": 4.4, "filmTime": "01:52 ч", "img":"./img/1+1.jpg"},
+     { "filmName": "Побег из Шоушенка", "filmRate": 4.6, "filmTime": "02:22 ч ","img":"./img/побег из шоушенко.jpg"},
+      { "filmName": "Волк с Уолл-стрит", "filmRate": 4.0, "filmTime": "03:00 ч ","img":"./img/Волк с Уолл-стрит.jpg" }, 
+      { "filmName": "Брат"," filmRate": 4.1," filmTime": " 01:40 ч ","img":"./img/Брат.jpg" }, 
+      {" filmName": "Зеленая миля"," filmRate": 4.6, "filmTime": "03:09 ч ","img":"./img/Зеленая миля.jpg" },
+       { "filmName": "Форрест Гамп", "filmRate": 4.4, "filmTime": "02:22 ч ","img":"./img/Форрест Гамп.jpg" },
+        { "filmName": "Джокер", "filmRate": 4.0, "filmTime": " 02:02 ч ","img":"./img/Джокер.jpg" },
+         { "filmName": "Достучаться до небес"," filmRate": 4.3, "filmTime": "01:27 ч ","img":"./img/Достучаться до небес.jpg" },
+          { "filmName": "Игры разума", "filmRate": 4.3," filmTime": "02:15 ч ","img":"./img/Игры разума.jpg" },
+           { "filmName": "Хатико: Самый верный друг", "filmRate": 4.2, "filmTime": "01:29 ч ","img":"./img/хатико.jpg" }, 
+           { "filmName": "Загадочная история Бенджамина Баттона", "filmRate": 4.0," filmTime": "02:46 ч ","img":"./img/Загадочная история Бенджамина Баттона.jpg" }, 
+           { "filmName": "Список Шиндлера"," filmRate": 4.4, "filmTime": "03:15 ч ","img":"./img/Список Шиндлера.jpg" },
+            { "filmName": "Великий Гэтсби", "filmRate": 4.0, "filmTime": "02:23 ч ","img":"./img/Великий Гэтсби.jpg" },
+             { "filmName": "Шоу Трумана", "filmRate": 4.1, "filmTime": "01:43 ч ","img":"./img/Шоу Трумана.jpg" }, 
+             { "filmName": "Т-34", "filmRate": 3.3, "filmTime": "02:19 ч ","img":"./img/Т-34.jpg" },
+              { "filmName": "Однажды в… Голливуде", "filmRate": 3.8, "filmTime": "02:41 ч ","img":"./img/Однажды в… Голливуде.jpg" },
+               {" filmName": "Три билборда на границе Эббинга, Миссури"," filmRate": 4.1, "filmTime": " 01:55 ч ","img":"./img/Три билборда на границе Эббинга, Миссури.jpg" }, 
+               { "filmName": "Дьявол носит Prada", "filmRate": 3.8, "filmTime": "01:49 ч ","img":"./img/Дьявол носит Prada.jpg" }, 
+               { "filmName": "Крестный отец", "filmRate": 4.4," filmTime": "02:55 ч ","img":"./img/Крестный отец.jpg" },
+                {" filmName": "Дневник памяти", "filmRate": 4.1, "filmTime": "02:04 ч ","img":"./img/Дневник памяти.jpg" },
+                 { "filmName": "Американская история X"," filmRate": 4.1, "filmTime": " 01:59 ч ","img":"./img/Американская история X.jpg" },
+                  { "filmName": "Изгой", "filmRate": 4.1, "filmTime": "02:23 ч " ,"img":"./img/Изгой.jpg"},
+                   { "filmName": "Дурак", "filmRate": 4.0, "filmTime": "01:56 ч ","img":"./img/Дурак.jpg" }, 
+                   {" filmName": "Паразиты", "filmRate": 4.0, "filmTime": "02:11 ч ","img":"./img/Паразиты.jpg" },
+                    { "filmName": "Реквием по мечте", "filmRate": 4.0, "filmTime": "01:42 ч " ,"img":"./img/Реквием по мечте.jpg"}, 
+                    { "filmName": "Семь жизней", "filmRate": 4.1, "filmTime": "01:58 ч","img":"./img/Семь жизней.jpg" }, 
+                    { "filmName": "Пролетая над гнездом кукушки", "filmRate": 4.3, "filmTime": "02:13 ч " ,"img":"./img/Пролетая над гнездом кукушки.jpg"},
+                     { "filmName": "Одержимость ", "filmRate": 4.2, "filmTime": "01:46 ч ","img":"./img/Одержимость.jpg" }, 
+                     { "filmName": "Терминал "," filmRate": 4.0, "filmTime": "02:04 ч ","img":"./img/Терминал.jpg" },
+                      { "filmName": "В погоне за счастьем ", "filmRate": 4.1, "filmTime": "01:57 ч ","img":"./img/В погоне за счастьем.jpg" },
+                       { "filmName": "Социальная сеть ", "filmRate": 3.9, "filmTime": "02:00 ч ","img":"./img/Социальная сеть.jpg" },
+                        { "filmName": "Далласский клуб покупателей ", "filmRate": 4.0, "filmTime": "01:58 ч ","img":"./img/Далласский клуб покупателей.jpg" }, 
+                        { "filmName": "Еще по одной ", "filmRate": 3.8, "filmTime": "01:50 ч ","img":"./img/Еще по одной.jpg" }
+  ]
+}
